@@ -1,0 +1,9 @@
+.label{
+    text-align: left;
+    display: flex;
+    margin-bottom: 0em;
+}
+
+.jumbotron{
+    padding: 0.25em 0.5em !important;
+}

@@ -1,0 +1,5 @@
+.jumbotron{
+    padding: 0.25em 0.25em !important;
+    display: flex;
+    flex-flow: column;
+}
