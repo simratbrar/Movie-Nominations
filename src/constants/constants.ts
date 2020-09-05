@@ -1,8 +1,8 @@
 const API_KEY = process.env.REACT_APP_API_KEY;
 
-export const SEARCH_TITLE_URL = `http://www.omdbapi.com/?apikey=${API_KEY}&type=movie&s=`;
+export const SEARCH_TITLE_URL = `https://www.omdbapi.com/?apikey=${API_KEY}&type=movie&s=`;
 
-export const SEARCH_BY_ID_URL = `http://www.omdbapi.com/?apikey=${API_KEY}&type=movie&i=`;
+export const SEARCH_BY_ID_URL = `https://www.omdbapi.com/?apikey=${API_KEY}&type=movie&i=`;
 
 export const BOOLEAN = {
     TRUE: "True",
