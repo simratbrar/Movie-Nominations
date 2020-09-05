@@ -1,5 +1,16 @@
-.jumbotron{
+.Jumbotron{
     padding: 0.25em 0.25em !important;
     display: flex;
     flex-flow: column;
+}
+
+.Image{
+    min-height: 30vh;
+    max-height: 30vh;
+}
+
+.Title{
+    font-size: initial !important;
+    min-height: 11vh;
+    max-height: 11vh;
 }
