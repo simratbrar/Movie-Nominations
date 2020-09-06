@@ -1,5 +1,9 @@
 React Single page application for searching and nominating movies.
 
+Used React Hooks and Mobx for state management
+
+Demo: https://movie-nominations.netlify.app/
+
 Features:
 
 Search and nominate movies.
